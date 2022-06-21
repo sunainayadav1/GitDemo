@@ -17,5 +17,7 @@ import io.cucumber.junit.CucumberOptions;
                  glue = "stepDefinitions",
                  tags= "@DeletePlace")
 public class TestRunner {
+	
+	//This command is to just test git
 
 }
