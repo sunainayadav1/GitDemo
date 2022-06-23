@@ -22,5 +22,6 @@ public class TestRunner {
 	//This command is added from gitHub
 	
 	//Trying git fetch
+	//Trying git pull
 
 }
